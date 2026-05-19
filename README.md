@@ -123,11 +123,15 @@ Designed with a tactical "security analyst workstation" aesthetic, this tool hel
 | **Threat Hunting** | Proactive search for threats using hypothesis-driven analysis | Analyst uses EDR telemetry to hunt for living-off-the-land binaries |
 | **SOAR**       | Orchestration and automation of incident response workflows | Playbook auto-contains a compromised endpoint and opens a ticket |
 
+![alt text](<Screenshots/Domain_01.png>)
+
 ### Vulnerability Management (Domain 02)
 | Vulnerability                | Description                         | Mitigation                         |
 | ------------------------- | ---------------------------------- | ------------------------------- |
 | **SQL Injection**    | Malicious SQL queries through input fields | Parameterized queries + WAF                    |
 | **Cross-Site Scripting (XSS)** | Injecting scripts into trusted websites | Output encoding + Content Security Policy |
+
+![alt text](<Screenshots/Domain_02.png>)
 
 ---
 
