@@ -1,6 +1,8 @@
 
 # CySA+ Reference Dossier — Interactive Study Guide
 
+![alt text](Screenshots/Comptia_CySA.png)
+
 ![CySA+](https://img.shields.io/badge/CySA%2B-CS0--003-FF0000?style=for-the-badge&logo=comptia&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
