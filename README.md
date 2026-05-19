@@ -183,4 +183,4 @@ MIT License — See LICENSE file for details.
 ---
 
 *Last updated: May 2026*
-```
+
