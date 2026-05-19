@@ -34,6 +34,7 @@ Designed with a tactical "security analyst workstation" aesthetic, this tool hel
 | **03** | Incident Response and Management        | 23%         | IR lifecycle, forensic analysis, containment, communication, lessons learned |
 | **04** | Reporting and Communication             | 14%         | Metrics, KPIs, compliance reporting, stakeholder communication, governance  |
 
+![alt text](<Screenshots/Home_CySA.png>)
 ---
 
 ## ✨ Key Features
